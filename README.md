@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on making web apps with React.js, Node.js, Express, and MongoDB/PostgreSQL<br>
-🌱 I'm currently learning more about Machine Learning/Artificial Intelligence<br>
+🌱 I'm currently learning Rust 🦀<br>
 ⚡️ Fun Fact: I'm addicted to drinking Matcha 🍵
 
 # 💻 Tech Stack:
